@@ -1,1 +1,2 @@
-
+- Standard optimization approach based on minimizing the objective function while comparing it with results from regression models. 
+- Different combinations of the equations yield variable results. More parameters do not always yield optimal solutions.
